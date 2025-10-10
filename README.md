@@ -5,7 +5,7 @@
 <br><br>
 💻 I am a Full Stack Developper<br><br>
 ❤️‍🔥 Passionate for IT and TECH <br><br>
-<br>📬 If you are interested about me, send me an email 😎
+<br>📬 If you’re interested in learning more about my projects, please contact me by email. 😎
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Thom's#3642) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-mayor-b64308105/) 
